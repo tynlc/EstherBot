@@ -1,8 +1,8 @@
 {
-    "HI": "Hi! My name is ShakesBot!\nI’m a new project of Shakespeare. Our goal is to create a new messenger bot which was released last April 12, 2016 at F8.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HI": "Hi! My name is ShakesBot!\nI’m the new project of Shakespeare Calibo. Our goal is to create a new messenger bot which was released last April 12, 2016 at F8. \nSo far I can understand the terms "HI","HELLO","ABOUT","I LOVE YOU","HORROR" and others.",
+	"ABOUT": "Shakespeare is currently a student at Asian College - Dumaguete.\nYou may want to visit his official website. %[Official Website](https://shakescal.com) %[Learn more about Messenger Bot](http://newsroom.fb.com/news/2016/04/messenger-platform-at-f8/)",
+    "HELLO": "Hi! My name is ShakesBot!\nI’m the new project of Shakespeare Calibo. Our goal is to create a new messenger bot which was released last April 12, 2016 at F8. \nSo far I can understand the terms "HI","HELLO","ABOUT","I LOVE YOU","HORROR" and others.",
+	"HORROR": "Ok it's your choice. Here you go: ^_^\n![horror](https://raw.githubusercontent.com/tynlc/EstherBot/master/img/horror.jpg)\n Haha these are my interns at Trabahante."
     "I LOVE YOU": "'Wag ako iba nalang!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+	"HAHA": "IKR"
 }
