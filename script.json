@@ -2,7 +2,7 @@
     "HI": "Hi! My name is ShakesBot!\nI’m a new project of Shakespeare. Our goal is to create a new messenger bot which was released last April 12, 2016 at F8.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "I LOVE YOU": "'Wag ako iba nalang!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
