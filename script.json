@@ -1,6 +1,6 @@
 {
 	"HI": "Hello! My name is ShakesBot! I’m a bot created by Shakespeare Calibo. \n%[ABOUT](postback:ABOUT)",
-	"ABOUT": "Shakespeare's goal is to create a new messenger bot based on the new feature by Messenger released last April 12, 2016 at F8. \n%[ABOUT BOTS](http://goo.gl/CUuKfb) \n%[ABOUT SHAKESPEARE](POSTBACK:SHAKESPEARE)",
+	"ABOUT": "Shakespeare's goal is to create a new messenger bot based on the new feature by Messenger released last April 12, 2016 at F8. \n%[ABOUT SHAKESPEARE](POSTBACK:SHAKESPEARE)",
 	"ABOUT SHAKESPEARE" : "Shakespeare is currently a student at Asian College. \nHe created different websites including Trabahante.com, Dumaguete Advisor, TrabahanteJobs and others. \nYou may also want to visit his official website %[Official Website](https://shakescal.com) \n%[ABOUT SHAKESBOT](POSTBACK:SHAKESBOT)",
 	"ABOUT SHAKESBOT" : "Now you are interested with me huh? \n You can start by saying HELLO",
 	"HELLO": "Hi! My name is ShakesBot! \nI’m so glad that you want talk to me. \nSo far I can understand the words HORROR, I LOVE YOU, HI, HELLO, and hope there's more to come.",
