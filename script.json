@@ -1,7 +1,7 @@
 {
 	"HI": "Hello! My name is ShakesBot! I’m a bot created by Shakespeare Calibo. \n%[ABOUT](postback:ABOUT)",
 	"ABOUT": "Shakespeare's goal is to create a new messenger bot based on the new feature by Messenger released last April 12, 2016 at F8. \n%[ABOUT BOTS](http://goo.gl/CUuKfb) %[ABOUT SHAKESPEARE](postback:SHAKESPEARE)",
-	"ABOUT SHAKESPEARE" : "Shakespeare is currently a student at Asian College. \nHe created different websites including Trabahante.com, Dumaguete Advisor, TrabahanteJobs and others. \nYou may also want to visit his official website %[Official Website](https://shakescal.com) \n%[ABOUT SHAKESBOT](postback:SHAKESBOT)",
+	"ABOUT SHAKESPEARE" : "Shakespeare is currently a student at Asian College. \nHe created different websites including Trabahante.com, Dumaguete Advisor, TrabahanteJobs and others. \nYou may also want to visit his official website %[Official Website](https://shakescal.com) %[ABOUT SHAKESBOT](postback:SHAKESBOT)",
 	"ABOUT SHAKESBOT" : "Now you are interested with me huh? \n You can start by saying HELLO",
 	"HELLO": "Hi! My name is ShakesBot! \nI’m so glad that you want talk to me. \nSo far I can understand the words HORROR, I LOVE YOU, HI, HELLO, and hope there's more to come.",
 	"HORROR": "Are you sure?",
@@ -15,9 +15,9 @@
 	"DONE": "Great! Now let's do the math. Just simply multiply that number by 2 and I will guess it.\n%[OK GUESS MY NUMBER](postback:GUESS)",
 	"OK GUESS MY NUMBER": "LOL! You think I'm a pro? Not yet. Let's multiply it this time by 5.\n%[I'M DONE](postback:GUESS2)",
 	"I'M DONE": "Now divide it by your original number.\n%[FINALLY](postback:GUESS3)",
-	"FINALLY": "Lastly, subtract that number by 7! And here is your answer. \n[ANSWER](postback:ANSWER",
-	"ANSWER": "The answer is....\n...\n...\n 3? ^_^ Haha!\nNow you have to do me a favor. \n[WHAT'S THAT?](postback:SHARE)",
-	"WHAT'S THAT?": "You have to like and share my page to motivate me and Shakespeare. \n[SURE!](https://www.facebook.com/shakescal/)",
+	"FINALLY": "Lastly, subtract that number by 7! And here is your answer. \n%[ANSWER](postback:ANSWER)",
+	"ANSWER": "The answer is....\n...\n...\n 3? ^_^ Haha!\nNow you have to do me a favor. \n%[WHAT'S THAT?](postback:SHARE)",
+	"WHAT'S THAT?": "You have to like and share my page to motivate me and Shakespeare. \n%[SURE!](https://www.facebook.com/shakescal/)",
 	"NEVERMIND": "It's sad to see you go. Bye! =(",
 	"CONNECT ME": "",
 	"DISCONNECT": "Roger that, ShakesBot is back."
