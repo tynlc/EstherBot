@@ -5,7 +5,7 @@
 	"ABOUT SHAKESBOT" : "Now you are interested with me huh? \n You can start by saying HELLO",
 	"HELLO": "Hi! My name is ShakesBot! \nI’m so glad that you want talk to me. \nSo far I can understand the words HORROR, I LOVE YOU, HI, HELLO, and hope there's more to come.",
 	"HORROR": "Are you sure?",
-	"YES": "Ok it's your choice. Here you go: ^_^ \n![horror](https://raw.githubusercontent.com/tynlc/EstherBot/master/img/horror.jpg)\n Haha these are my interns at Trabahante.",
+	"YES": "Ok it's your choice. Here you go: ^_^ \n![horror](https://raw.githubusercontent.com/tynlc/EstherBot/master/img/horror.jpg)\n Haha these are my interns at Trabahante. \nLet's play a game!%[Game!](postback:GAME) %[Nevermind](postback:BYE)",
 	"NO": "Nice decision but you can still say YES =)",
 	"HAHA": "IKR\nLet's play a game!%[Game!](postback:GAME) %[Nevermind](postback:BYE)",
 	"LOL": "IKR\nLet's play a game!%[Game!](postback:GAME) %[Nevermind](postback:BYE)",
