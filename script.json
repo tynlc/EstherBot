@@ -9,7 +9,7 @@
 	"NO": "Nice decision but you can still say YES =)",
 	"HAHA": "IKR\nLet's play a game!%[Game!](postback:GAME) %[Nevermind =(](postback:BYE)",
 	"LOL": "IKR\nLet's play a game!%[Game!](postback:GAME) %[Nevermind =(](postback:BYE)",
-	"I LOVE YOU": "Huwag ako, iba nalang! Let's play a game! \n%[Game!](postback:BYE) %[Nevermind =(](postback:BYE)",
+	"I LOVE YOU": "Huwag ako, iba nalang! Let's play a game! \n%[Game!](postback:BYE) %[Nevermind](postback:BYE)",
 	"GAME!" : "Cool you're not a KJ. Yeah! Shakespeare taught me that! \nJust think of a number between 1 to 10 and when you're done just say OK or say DONE",
 	"OK": "Great! Now let's do the math. Just simply multiply that number by 2 and I will guess it.\n%[OK Guess my number](postback:GUESS)",
 	"DONE": "Great! Now let's do the math. Just simply multiply that number by 2 and I will guess it.\n%[OK Guess my number](postback:GUESS)",
